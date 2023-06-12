@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @nivedanaj
-- 👀 I’m interested in ... coding 
-- 🌱 I’m currently learning ... github 
-- 💞️ I’m looking to collaborate on ...git and github
+- 👋 Hi, I’m @nivedanaj and @arundhathicv
+- 👀 We're interested in ... coding 
+- 🌱 We're currently learning ... github 
+- 💞️ We're looking to collaborate on ...git and github
 - 📫 How to reach me ...
 
 <!---
